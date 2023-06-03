@@ -1,0 +1,11 @@
+Name : Tina
+adhaar : 74972899278
+address : Ring Road
+city : Gujarat
+state : Gujarat
+contact : 8525582115
+DOB : 02/05/1996
+DOJ : 12/11/2012
+qualifications : B.Sc
+post : Crew Member
+shift : Ahemdabad to Delhi

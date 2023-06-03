@@ -1,0 +1,11 @@
+Name : Rohan
+adhaar : 617530755555
+address : Laal Ghar
+city : Indore
+state : M.P.
+contact : 354178177
+DOB : 15/09/1998
+DOJ : 11/10/2019
+qualifications : BBA
+post : Guide
+shift : Indore to Mumbai

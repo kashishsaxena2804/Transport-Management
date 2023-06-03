@@ -1,0 +1,10 @@
+Name : Riya
+adhaar : 57516196186
+address : Ring Highway
+city : Ahemdabad
+state : Gujarat
+contact : 4157687645
+DOB : 31/05/2000
+travelling from : Ahemdabad
+travellin to : Delhi
+booking date : 21/03/2020

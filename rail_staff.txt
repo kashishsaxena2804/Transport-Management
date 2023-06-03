@@ -1,0 +1,11 @@
+Name : Ananda Ranga Pillai
+adhaar : 5791787879
+address : K.K Nagar West
+city : Chennai
+state : Tamil Nadu
+contact : 7871899978
+DOB : 29/10/1993
+DOJ : 12/09/2010
+qualifications : Graduate
+post : Head Guide
+shift : Chennai to Chandigarh
